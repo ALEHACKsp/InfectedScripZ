@@ -6,6 +6,8 @@ Bunch of software that I made all in one repository.
 * **Spl0it Phant0m** -
 * **St0rAgEaTeR** - 
 * **MEMZX** - 
+* **SomeWeirdMalwareICreated** - 
 
 ## Software
 * **WelcomeLauncher** - 
+
