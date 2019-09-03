@@ -13,8 +13,7 @@ Bunch of software that I made all in one repository.
 * **[SomeWeirdMalwareICreated](https://github.com/MrSleekZ/SomeWeirdMalwareThatICreated)**
 <details>
 <summary>Features</summary>
-  * **Aimbot**
-  * **a** w
+ Coming Soon...
   </details>
 
 ## Software
