@@ -13,10 +13,8 @@ Bunch of software that I made all in one repository.
 * **[SomeWeirdMalwareICreated](https://github.com/MrSleekZ/SomeWeirdMalwareThatICreated)**
 <details>
 <summary>Features</summary>
-  ##Spl0it Anonymous 
-  ##Spl0it Phant0m
-  ##St0rAgEaTeR
-  ##MEMEZX
+  * **Aimbot**
+  * **a** w
   </details>
 
 ## Software
