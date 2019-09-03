@@ -10,4 +10,7 @@ Bunch of software that I made all in one repository.
 
 ## Software
 * **[WelcomeLauncher](https://github.com/MrSleekZ/WelcomeLauncher)**
+<details>
+<summary>Features in depth</summary>
+
 
