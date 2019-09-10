@@ -10,6 +10,8 @@ Bunch of software that I made all in one repository.
 
 * **[MEMZX](https://github.com/MrSleekZ/MEMEZX)**
 
+* **[Spl0it](https://github.com/MrSleekZ/Spl0it)**
+
 * **[SomeWeirdMalwareICreated](https://github.com/MrSleekZ/SomeWeirdMalwareThatICreated)**
 <details>
 <summary>Features</summary>
