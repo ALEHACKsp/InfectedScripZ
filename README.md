@@ -21,6 +21,11 @@ Bunch of software that I made all in one repository.
 ## Software
 * **[WelcomeLauncher](https://github.com/MrSleekZ/WelcomeLauncher)**
 
+## How to run
+1. Install the files
+2. Open 'Locker' and take out 'Key.txt'
+3/ DOne
+
 
 
 
