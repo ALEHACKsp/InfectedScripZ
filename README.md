@@ -23,8 +23,13 @@ Bunch of software that I made all in one repository.
 
 ## How to run
 1. Install the files
+
 2. Open 'Locker' and take out 'Key.txt'
-3/ DOne
+
+3. Open 'Locker' and browse the files.
+ 
+ 
+NOTE: When you lock the folder, 'Locker', please use the key in 'Key.txt' to unlock it.
 
 
 
